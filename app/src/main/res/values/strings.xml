@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="ib_description">Send Message</string>
+    <string name="et_placeholder">Type your message</string>
+</resources>
